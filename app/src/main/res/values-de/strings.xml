@@ -53,10 +53,10 @@
     <string name="autowhite_sum">Zu schützende Ordner automatisch erkennen</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="prompt_string">Please add file access permissions</string>
-    <string name="settings_string">Settings</string>
+    <string name="settings_string">Einstellungen</string>
     <string name="title_activity_prompt">PromptActivity</string>
-    <string name="corpse_summary">Files left over from uninstalled apps</string>
-    <string name="corpse_title">Delete corpse files</string>
-    <string name="donate">Donate</string>
-    <string name="donate_sum">Buy me a Coffee! Or choose how much to donate using PayPal so I can keep supporting this app</string>
+    <string name="corpse_summary">Übriggebliebene Dateien von deinstallierten Apps</string>
+    <string name="corpse_title">Verwaiste Dateien löschen</string>
+    <string name="donate">Spenden</string>
+    <string name="donate_sum">Spendiere mir einen Kaffee! Oder wähle, wieviel du mit PayPal spenden möchtest, damit ich diese App weiterhin pflegen kann</string>
 </resources>
